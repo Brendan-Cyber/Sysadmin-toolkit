@@ -13,9 +13,9 @@ Designed for experimentation and learning, not deployment in critical environmen
 
 #Tools include (for now)
 
-1. Backup Tool (Bash)
+1. Backup Tool v1 (Bash)
 
-A simple backup and restore utility using tar and sha256sum.
+A simple backup and restore utility using tar and sha256sum. 
 
 Features:
 
